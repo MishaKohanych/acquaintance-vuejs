@@ -1,0 +1,7 @@
+body {overflow-y: scroll;}
+.text-success {color: #42b983!important;}
+.card img {max-width: 100%; height: auto;}
+.card .tel {line-height: 1;}
+.card ul {list-style: none;}
+.modal {display: block;}
+.table td {white-space: nowrap;}
